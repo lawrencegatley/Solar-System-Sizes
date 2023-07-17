@@ -1,0 +1,11 @@
+planet_no,Name,Radius_km,Colour
+9,Pluto,1188.3,#88898C
+8,Neptune,24622.0,#657BA6
+7,Uranus,25362.0,#007C80
+6,Saturn,58232.0,#F2CD88
+5,Jupiter,69911.0,#A65329
+4,Mars,3389.5,#800400
+3,Earth,6371.0,#00CED1
+2,Venus,6051.8,#FFA500
+1,Mercury,2439.7,#9F8C76
+0,Sun,696340.0,#ffff00
